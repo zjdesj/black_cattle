@@ -1,0 +1,6 @@
+train: ../cattle_data/train/images
+val: ../cattle_data/valid/images
+
+nc: 1
+names: 
+  - cattle
