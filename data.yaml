@@ -1,5 +1,5 @@
-train: ../cattle_data/train/images
-val: ../cattle_data/valid/images
+train: ../cattle_data/BeckyData/train/images
+val: ../cattle_data/BeckyData/valid/images
 
 nc: 1
 names: 
